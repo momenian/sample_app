@@ -4,7 +4,13 @@
     <data-source source="LOCAL" name="Rails sample_app: development" uuid="6db87694-b573-4b6d-a063-c0b89a3dd35c">
       <driver-ref>sqlite.xerial</driver-ref>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:D:\RubyProjects\sample_app\db\development.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\RubyProjects\sample_app\db\development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sample_app: test" uuid="2ea90ab9-03b8-415b-b519-faa7d174f514">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\RubyProjects\sample_app\db\test.sqlite3</jdbc-url>
       <libraries />
     </data-source>
   </component>
